@@ -74,7 +74,7 @@ export default {
   },
   methods: {
     clickOnCard(card) {
-      alert(`Clicou no card ${card}`);
+      alert(`Clicou no card ${card.Titulo}`);
     }
   }
 };
